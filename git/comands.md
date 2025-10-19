@@ -1,10 +1,22 @@
-###git init 
-###git config -l
+###Git comands
+
+git init 
+
+git config -l
+
 git config --global "damian-knap" -uwaga
+
 git config user.name "damian-knap"
-git config user.email "noreply@github.com"
+
+git config user.email "noreply@github.
+com"
+
 git config credentials.helper store
+
 git status
+
 git add 
+
 git commit -m "text"
+
 git push origin main
