@@ -12,3 +12,11 @@
 8. Git branching strategies - [link](https://dev.to/juniourrau/6-types-of-git-branching-strategy-g54)
 9. Git Pro book - [link](https://git-scm.com/book/pl/v2)
 10. Notes with key information for git - [link](https://github.com/bogdanpolak/nauka-gita)
+
+### Exercices
+1. Learn Git Branching - [link](https://learngitbranching.js.org/)
+2. Conflict practice - [link](https://github.com/githubtraining/conflict-practice)
+3. Git Workshop - [link](https://www.gitwarsztaty.pl/cwiczenia)
+
+### Interview questions
+1. Interview questions - [link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
