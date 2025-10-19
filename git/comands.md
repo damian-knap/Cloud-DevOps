@@ -1,6 +1,5 @@
-###Git comands
-
-git init 
+## Git comands 
+ git init 
 
 git config -l
 
@@ -20,3 +19,7 @@ git add
 git commit -m "text"
 
 git push origin main
+
+git branch dev 
+
+git switch <branch_name>
