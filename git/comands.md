@@ -10,7 +10,7 @@ git config user.name "damian-knap"
 git config user.email "noreply@github.
 com"
 
-git config credentials.helper store
+git config credential.helper store
 
 git status
 
